@@ -6,3 +6,4 @@ To get started, [open an issue](https://github.com/reviewpad/hey-robin/issues/ne
 
 **Notes**
 1. The underlying LLM sometimes gets overloaded and so it is possible that the reply does not arrive.
+2. At the moment, this is a simple conversational agent - we have not opened it to the full capabilities like search, video summarization etc.
